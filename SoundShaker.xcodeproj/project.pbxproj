@@ -12,6 +12,16 @@
 		495557D022FC7D12001408A1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 495557CE22FC7D12001408A1 /* Main.storyboard */; };
 		495557D222FC7D13001408A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 495557D122FC7D13001408A1 /* Assets.xcassets */; };
 		495557D522FC7D13001408A1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 495557D322FC7D13001408A1 /* LaunchScreen.storyboard */; };
+		495557DD22FC8331001408A1 /* police siren.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 495557DC22FC8331001408A1 /* police siren.mp3 */; };
+		495557DF22FC8353001408A1 /* waka waka.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 495557DE22FC8353001408A1 /* waka waka.mp3 */; };
+		495557E122FC8359001408A1 /* viral bhaidiyo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 495557E022FC8359001408A1 /* viral bhaidiyo.mp3 */; };
+		495557E322FC835F001408A1 /* dilko bhittama.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 495557E222FC835F001408A1 /* dilko bhittama.mp3 */; };
+		495557E522FCEC14001408A1 /* parana parana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 495557E422FCEC14001408A1 /* parana parana.mp3 */; };
+		495557E722FCEC1D001408A1 /* aakha lobi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 495557E622FCEC1C001408A1 /* aakha lobi.mp3 */; };
+		495557E922FCEC27001408A1 /* aaja hamro vet.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 495557E822FCEC27001408A1 /* aaja hamro vet.mp3 */; };
+		495557EB22FCEC33001408A1 /* yo kura gopya.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 495557EA22FCEC33001408A1 /* yo kura gopya.mp3 */; };
+		495557ED22FCEC3B001408A1 /* hami yestai ta ho ni.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 495557EC22FCEC3B001408A1 /* hami yestai ta ho ni.mp3 */; };
+		495557EF22FCEC43001408A1 /* saani narisauna.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 495557EE22FCEC43001408A1 /* saani narisauna.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +32,16 @@
 		495557D122FC7D13001408A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		495557D422FC7D13001408A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		495557D622FC7D13001408A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		495557DC22FC8331001408A1 /* police siren.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "police siren.mp3"; sourceTree = "<group>"; };
+		495557DE22FC8353001408A1 /* waka waka.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "waka waka.mp3"; sourceTree = "<group>"; };
+		495557E022FC8359001408A1 /* viral bhaidiyo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "viral bhaidiyo.mp3"; sourceTree = "<group>"; };
+		495557E222FC835F001408A1 /* dilko bhittama.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "dilko bhittama.mp3"; sourceTree = "<group>"; };
+		495557E422FCEC14001408A1 /* parana parana.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "parana parana.mp3"; sourceTree = "<group>"; };
+		495557E622FCEC1C001408A1 /* aakha lobi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "aakha lobi.mp3"; sourceTree = "<group>"; };
+		495557E822FCEC27001408A1 /* aaja hamro vet.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "aaja hamro vet.mp3"; sourceTree = "<group>"; };
+		495557EA22FCEC33001408A1 /* yo kura gopya.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "yo kura gopya.mp3"; sourceTree = "<group>"; };
+		495557EC22FCEC3B001408A1 /* hami yestai ta ho ni.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "hami yestai ta ho ni.mp3"; sourceTree = "<group>"; };
+		495557EE22FCEC43001408A1 /* saani narisauna.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "saani narisauna.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +80,16 @@
 				495557D122FC7D13001408A1 /* Assets.xcassets */,
 				495557D322FC7D13001408A1 /* LaunchScreen.storyboard */,
 				495557D622FC7D13001408A1 /* Info.plist */,
+				495557DC22FC8331001408A1 /* police siren.mp3 */,
+				495557DE22FC8353001408A1 /* waka waka.mp3 */,
+				495557E022FC8359001408A1 /* viral bhaidiyo.mp3 */,
+				495557E222FC835F001408A1 /* dilko bhittama.mp3 */,
+				495557E422FCEC14001408A1 /* parana parana.mp3 */,
+				495557E622FCEC1C001408A1 /* aakha lobi.mp3 */,
+				495557E822FCEC27001408A1 /* aaja hamro vet.mp3 */,
+				495557EA22FCEC33001408A1 /* yo kura gopya.mp3 */,
+				495557EC22FCEC3B001408A1 /* hami yestai ta ho ni.mp3 */,
+				495557EE22FCEC43001408A1 /* saani narisauna.mp3 */,
 			);
 			path = SoundShaker;
 			sourceTree = "<group>";
@@ -123,8 +153,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				495557D522FC7D13001408A1 /* LaunchScreen.storyboard in Resources */,
+				495557E122FC8359001408A1 /* viral bhaidiyo.mp3 in Resources */,
 				495557D222FC7D13001408A1 /* Assets.xcassets in Resources */,
+				495557E722FCEC1D001408A1 /* aakha lobi.mp3 in Resources */,
+				495557DF22FC8353001408A1 /* waka waka.mp3 in Resources */,
+				495557E322FC835F001408A1 /* dilko bhittama.mp3 in Resources */,
+				495557EB22FCEC33001408A1 /* yo kura gopya.mp3 in Resources */,
+				495557EF22FCEC43001408A1 /* saani narisauna.mp3 in Resources */,
+				495557E522FCEC14001408A1 /* parana parana.mp3 in Resources */,
 				495557D022FC7D12001408A1 /* Main.storyboard in Resources */,
+				495557DD22FC8331001408A1 /* police siren.mp3 in Resources */,
+				495557E922FCEC27001408A1 /* aaja hamro vet.mp3 in Resources */,
+				495557ED22FCEC3B001408A1 /* hami yestai ta ho ni.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
